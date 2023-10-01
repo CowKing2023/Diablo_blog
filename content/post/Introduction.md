@@ -34,7 +34,7 @@ Diabloシリーズの中でも特にインフレが激しいDiabolo3の動画
 
 <div class="vembedr">
 <div>
-<iframe src="https://www.youtube.com/embed/gQLwCbpbEYE" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/ybbr4wm0MEE" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Diabloシリーズの中でも特にインフレが激しいDiabolo3の動画
 
 <div class="vembedr">
 <div>
-<iframe src="https://www.youtube.com/embed/hOR3lrPxIbo" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
+<iframe src="https://www.youtube.com/embed/EV8qCgfdIVs" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
 </div>
 </div>
 

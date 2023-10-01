@@ -34,7 +34,7 @@ Diabloシリーズの中でも特にインフレが激しいDiabolo3の動画
 敵に近づいて殴るしかなく移動速度も遅い。爽快感とはかけ離れている…  
 
 ```{r echo=FALSE}
-embed_url("https://www.youtube.com/watch?v=ybbr4wm0MEE")
+embed_url("https://youtu.be/ybbr4wm0MEE")
 ```
 
 + Diablo3の後半の戦闘  
