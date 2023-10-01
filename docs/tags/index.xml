@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on モーモー牧場</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on モーモー牧場</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diablo 2R</title>
+      <link>/tags/diablo-2r/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diablo-2r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diablo 3</title>
+      <link>/tags/diablo-3/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diablo-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diablo 4</title>
+      <link>/tags/diablo-4/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diablo-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diablo Immortal</title>
+      <link>/tags/diablo-immortal/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diablo-immortal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
