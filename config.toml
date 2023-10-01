@@ -1,4 +1,7 @@
-baseurl = "/"
+baseurl = "https://cowking2023.github.io/Diablo_blog/"
+relativeurls = true
+publishDir = "docs"
+hasCJKLanguage = true
 languageCode = "en-US"
 title = "モーモー牧場"
 theme = "hugo-lithium"
@@ -46,6 +49,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
   [markup.highlight]
     codeFences = false
-    
-publishDir = "docs"
-hasCJKLanguage = true
