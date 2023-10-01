@@ -16,6 +16,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     name = "このブログについて"
     url = "/about/"
 [[menu.main]]
+    name = "YouTube"
+    url = "https://www.youtube.com/@CowKing-ip1ew"
+[[menu.main]]
     name = "Blizzard"
     url = "https://www.blizzard.com/ja-jp/"
 [[menu.main]]
