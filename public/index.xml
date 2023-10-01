@@ -6,23 +6,13 @@
     <description>Recent content on モーモー牧場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>このブログについて</title>
-      <link>/about/</link>
-      <pubDate>Sat, 30 Sep 2023 11:27:00 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>このブログはDiabloが好きな筆者が心にうつるよしなしごとをそこはかとなく書きつくるDiablo布教用ブログです。
-攻略に役に立ちそうなことからそうでもないことまでいろいろなことを書いていこうと思います。 こんなゆるいブログなので更新頻度はバラバラです</description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diabloって何？</title>
-      <link>/2023/09/30/diablo%E3%81%A3%E3%81%A6%E4%BD%95/</link>
-      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <link>/2023/10/01/diablo/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2023/09/30/diablo%E3%81%A3%E3%81%A6%E4%BD%95/</guid>
+      <guid>/2023/10/01/diablo/</guid>
       <description>Diabloとは？ Blizzardから発売されている見下ろし型アクションRPG。初代のDiabloから始まりDiablo 2, Diablo 3, Diablo Immortal, Diablo 4のシリーズがある。
 Diabloはどんなゲーム？ ハックアンドスラッシュという敵をたくさん倒してどんどん強くなっていくといったようなゲームの金字塔である。
 敵を倒して強い装備品を得ること強くなり、さらに強い敵を倒してさらに強い装備品を得て…を繰り返していく。序盤は雑魚的にもちょっと苦戦するが強くなっていくと敵をゴミのように蹴散らせるようになる爽快感がある。
@@ -41,6 +31,16 @@ Diablo2
 名作だったDiablo２の正統続編として期待されたがリリース当初は問題点も多い作品であったが数々のアプデを経て神ゲーになったゲーム。Diablo２よりライト層向けを意識した作りになってます。
 注意点としては家庭用版とＰＣ版では結構仕様がことなり、特にＰＣ版は日本語対応がありません。
 いいところ アイテムのドロップ率が大幅に上がっているためやりたいビルドを組むのは簡単 Greater Rift（GR）というものすごい強化された敵と戦うモードがありアイテム厳選のためトレハン要素も確保されている GRを攻略するために戦略を考えるのが楽しい 結構セールで安売りしている（Diablo2とセットで買うとさらにお得に！） ビルドの組み換えやレベル上げの労力は少ない 微妙なところ トレードがない PVP要素はほぼ皆無 インフレが激しいので最適解ビルド以外だとエンドコンテンツ消化が難しく自己流ビルドが活躍できる余地は乏しい わかりやすい超級レアがなく、装備の各特性値を吟味する地味なトレハンになりがち よくも悪くもGRしかやることがない Season29で大きな更新は終了し過去のコンテンツをローテーションする方針が決定した（今から遊ぶ分には問題ないけどね） こういう人におすすめ ハクスラに興味があるけど時間があまり取れない人 どんどん難しいダンジョンにチャレンジして限界に調整したい人 Diablo Immortal</description>
+    </item>
+    
+    <item>
+      <title>このブログについて</title>
+      <link>/about/</link>
+      <pubDate>Sat, 30 Sep 2023 11:27:00 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>このブログはDiabloが好きな筆者が心にうつるよしなしごとをそこはかとなく書きつくるDiablo布教用ブログです。
+攻略に役に立ちそうなことからそうでもないことまでいろいろなことを書いていこうと思います。 こんなゆるいブログなので更新頻度はバラバラです</description>
     </item>
     
   </channel>

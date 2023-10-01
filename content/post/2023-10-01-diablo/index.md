@@ -1,22 +1,18 @@
 ---
-title: "Diabloって何？"
-author: "Cow_Prince"
-output: html_document
-date: "2023-09-30"
-categories: 
+title: Diabloって何？
+author: CowKing
+date: '2023-10-01'
+slug: diablo
+categories:
   - Diablo 2R
   - Diablo 3
-  - Diablo Immortal
   - Diablo 4
-tags: 
-  - Diablo 2R
-  - Diablo 3
   - Diablo Immortal
-  - Diablo 4
+tags: [Diablo 2R, Diablo 3, Diablo Immortal, Diablo 4]
 ---
 
-<link href="/rmarkdown-libs/vembedr/css/vembedr.css" rel="stylesheet" />
-<link href="/rmarkdown-libs/vembedr/css/vembedr.css" rel="stylesheet" />
+<link href="{{< blogdown/postref >}}index_files/vembedr/css/vembedr.css" rel="stylesheet" />
+<link href="{{< blogdown/postref >}}index_files/vembedr/css/vembedr.css" rel="stylesheet" />
 
 ## Diabloとは？
 
