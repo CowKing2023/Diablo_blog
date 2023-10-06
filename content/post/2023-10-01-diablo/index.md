@@ -13,6 +13,7 @@ tags: [Diablo 2R, Diablo 3, Diablo Immortal, Diablo 4]
 
 <link href="{{< blogdown/postref >}}index_files/vembedr/css/vembedr.css" rel="stylesheet" />
 <link href="{{< blogdown/postref >}}index_files/vembedr/css/vembedr.css" rel="stylesheet" />
+<link href="{{< blogdown/postref >}}index_files/vembedr/css/vembedr.css" rel="stylesheet" />
 
 ## Diabloとは？
 
@@ -64,6 +65,12 @@ Diabloシリーズの中でも特にインフレが激しいDiabolo3の動画
 
 ## 各作品のDiabloについて
 
+<div class="vembedr">
+<div>
+<iframe src="https://www.youtube.com/embed/WLVebvFQaXg" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
+</div>
+</div>
+
 よくも悪くも過去作を踏襲しないスタイルなのでシリーズごとに個性があります。実際Diablo２にはまってもDiablo３に魅力を感じなかったりその逆もあります。個人的にはやったことがない初代はわかりませんがほかの作品はすべて魅力がある作品なので全作品をやってほしい！とはおもいますが時間のない人のために各作品のいいところ微妙なところをまとめてみようと思います。
 
 - Diablo2  
@@ -105,7 +112,7 @@ Diabloシリーズの中でも特にインフレが激しいDiabolo3の動画
     - Season29で大きな更新は終了し過去のコンテンツをローテーションする方針が決定した（今から遊ぶ分には問題ないけどね）
   - こういう人におすすめ
     - ハクスラに興味があるけど時間があまり取れない人
-    - どんどん難しいダンジョンにチャレンジして限界に調整したい人
+    - どんどん難しいダンジョンにチャレンジして限界に挑戦したい人
 
 - Diablo Immortal  
   リリース当初は課金要素で炎上したゲームだが意外ときつくない課金要素と度重なるアプデですこしづつよくなっておりもはや神ゲーの領域まできたとおもわれるゲーム。  
