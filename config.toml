@@ -22,8 +22,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
     name = "Blizzard"
     url = "https://www.blizzard.com/ja-jp/"
 [[menu.main]]
-    name = "Diablo公式X(Twitter)"
-    url = "https://twitter.com/playdiablo_jp"
+    name = "X(Twitter)"
+    url = "https://twitter.com/DiabloZundamon"
 
 [params]
     description = "A website built through Hugo and blogdown."
