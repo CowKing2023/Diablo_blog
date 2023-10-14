@@ -6,7 +6,16 @@
     <description>Recent content in Categories on モーモー牧場</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diablo Immortal</title>
+      <link>/categories/diablo-immortal/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/diablo-immortal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Diablo 2R</title>
       <link>/categories/diablo-2r/</link>
@@ -31,15 +40,6 @@
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>/categories/diablo-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diablo Immortal</title>
-      <link>/categories/diablo-immortal/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/diablo-immortal/</guid>
       <description></description>
     </item>
     
